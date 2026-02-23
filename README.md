@@ -2,7 +2,10 @@ Ejercicio 1 : Newsletter
 
 
 Nombre: Damian Alexander Diaz Piña
-Número de Control:23151212
+
+
+
+Número de Control:23151247
 
 
 📝 Descripción
